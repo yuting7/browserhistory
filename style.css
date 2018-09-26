@@ -1,0 +1,47 @@
+body{
+  font-family: 'Open-Sans', sans-serif;
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color: Ivory;
+}
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li {
+  display: inline;
+}
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+h1,h2{
+  font-family: Oswald, sans-serif;
+}
+
+img{
+  float: left;
+  margin-right: 10px;
+}
+
+.left{
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+
+.right{
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+
+.center{
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
